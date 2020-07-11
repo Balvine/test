@@ -1,0 +1,349 @@
+
+body{
+    background: linear-gradient(270deg, #D4C3C3 47.26%, #D4C3C3 48.23%, #00F9BD 48.23%);
+}
+@media only screen and (min-width:768px){
+h1{
+    width: 475px;
+    height: 94px;
+    margin-left: 28px;
+    margin-top: 58px;
+    font-family: "Audrey";
+    font-size: 40px;
+    text-align: center;
+}
+.twitter>i{
+    margin-left: 43px;
+}
+#twit{
+    width: 336px;
+    height: 39px;
+    margin-left: 100px;
+    margin-top: -40px;
+    font-family: "Audrey";
+    font-size: 34px;
+}
+#twit>a:hover{
+    color: #9b7373;
+}
+.linkedin>i{
+    margin-left: 43px;
+}
+#lin{
+    width: 320px;
+    height: 44px;
+    margin-left: 109px;
+    margin-top: -40px;
+    font-family: "Audrey";
+    font-size: 34px;
+}
+#lin>a:hover{
+    color: #9b7373;
+}
+.facebook>i{
+    margin-left: 43px;
+}
+#fb{
+    width: 262px;
+    height: 46px;
+    margin-left: 109px;
+    margin-top: -40px;
+    font-family: "Audrey";
+    font-size: 34px;
+}
+#fb>a:hover{
+    color: #9b7373;
+}
+.git>i{
+    margin-left: 43px;
+}
+#gt{
+    width: 148px;
+    height: 38px;
+    margin-left: 109px;
+    margin-top: -40px;
+    font-family: "Audrey";
+    font-size: 34px;
+}
+#gt>a:hover{
+    color: #9b7373;
+}
+.ellipse{
+    width: 524px;
+    height: 441px;
+    margin-left: 400px;
+    margin-top: -390px;
+    border-radius: 50%;
+    background-image: url("image/zedy.jpg");
+    background-repeat: repeat-x;
+    background-position: -25% 30%;
+}
+.nav{
+    width: 260px;
+    height: 322px;
+    margin-left: 950px;
+    margin-top: -500px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Audrey";
+    line-height: 112px;
+    font-size: 40px;
+}
+.nav>a:hover{
+    color: #00F9BD;
+}
+#contacts{
+    background-color: inherit;
+    margin-top: -35px;
+    margin-left: 8px;
+    overflow: hidden;
+    font-size: 20px; 
+    font-weight: bold;   
+}
+#contacts:hover{
+    color: #9b8b30;
+    background-color: dodgerblue;
+}
+#conts{
+    margin-left: 50px;
+    margin-top: -70px;
+    font-weight: bold;
+}
+.select{
+    background-color: dodgerblue;
+}
+.contact>option{
+    background-color: dodgerblue;
+}
+#adrs{
+    margin-top: 20px;
+}
+}
+
+
+@media only screen and (min-width:1024px){
+    h1{
+        width: 605px;
+        height: 94px;
+        margin-left: 28px;
+        margin-top: 88px;
+        font-family: "Audrey";
+        font-size: 50px;
+        text-align: center;
+    }
+    .twitter>i{
+        margin-left: 43px;
+        font-size: 50px;
+    }
+    #twit{
+        width: 336px;
+        height: 39px;
+        margin-left: 100px;
+        margin-top: -40px;
+        font-family: "Audrey";
+        font-size: 34px;
+    }
+    #twit>a:hover{
+        color: #9b7373;
+    }
+    .linkedin>i{
+        margin-left: 43px;
+        font-size: 50px;
+
+    }
+    #lin{
+        width: 320px;
+        height: 44px;
+        margin-left: 109px;
+        margin-top: -40px;
+        font-family: "Audrey";
+        font-size: 34px;
+    }
+    #lin>a:hover{
+        color: #9b7373;
+    }
+    .facebook>i{
+        margin-left: 43px;
+        font-size: 50px;
+    }
+    #fb{
+        width: 262px;
+        height: 46px;
+        margin-left: 109px;
+        margin-top: -40px;
+        font-family: "Audrey";
+        font-size: 34px;
+    }
+    #fb>a:hover{
+        color: #9b7373;
+    }
+    .git>i{
+        margin-left: 43px;
+        font-size: 50px;
+    }
+    #gt{
+        width: 148px;
+        height: 38px;
+        margin-left: 109px;
+        margin-top: -40px;
+        font-family: "Audrey";
+        font-size: 34px;
+    }
+    #gt>a:hover{
+        color: #9b7373;
+    }
+    .ellipse{
+        width: 524px;
+        height: 441px;
+        margin-left: 400px;
+        margin-top: -390px;
+        border-radius: 50%;
+        background-image: url("image/zedy.jpg");
+        background-repeat: repeat-x;
+        background-position: -25% 30%;
+    }
+    .nav{
+        width: 260px;
+        height: 322px;
+        margin-left: 950px;
+        margin-top: -500px;
+        display: flex;
+        flex-direction: column;
+        font-family: "Audrey";
+        line-height: 112px;
+        font-size: 40px;
+    }
+    .nav>a:hover{
+        color: #00F9BD;
+    }
+    #contacts{
+        background-color: inherit;
+        margin-top: -35px;
+        margin-left: 8px;
+        overflow: hidden;
+        font-size: 20px; 
+        font-weight: bold;   
+    }
+    #contacts:hover{
+        color: #9b8b30;
+        background-color: dodgerblue;
+    }
+    #conts{
+        margin-left: 50px;
+        margin-top: -70px;
+        font-weight: bold;
+    }
+    .select{
+        background-color: dodgerblue;
+    }
+    .contact>option{
+        background-color: dodgerblue;
+    }
+    #adrs{
+        margin-top: 20px;
+    }
+    }
+
+
+    @media only screen and (max-width:768px){
+        h1{
+            width: 215px;
+            height: 54px;
+            margin-left: 2px;
+            margin-top: 28px;
+            font-family: "Audrey";
+            font-size: 18px;
+            text-align: center;
+        }
+        /*.twitter>i{
+            margin-left: 13px;
+            font-size: 30px;
+            margin-top: -20px;
+        }
+        #twit{
+            width: 36px;
+            height: 19px;
+            margin-left: 100px;
+            margin-top: -40px;
+            font-family: "Audrey";
+            font-size: 18px;
+        }
+        #twit>a:hover{
+            color: #9b7373;
+        }
+        .linkedin>i{
+            margin-left: 43px;
+        }
+        #lin{
+            width: 320px;
+            height: 44px;
+            margin-left: 109px;
+            margin-top: -40px;
+            font-family: "Audrey";
+            font-size: 34px;
+        }
+        #lin>a:hover{
+            color: #9b7373;
+        }
+        .facebook>i{
+            margin-left: 43px;
+        }
+        #fb{
+            width: 262px;
+            height: 46px;
+            margin-left: 109px;
+            margin-top: -40px;
+            font-family: "Audrey";
+            font-size: 34px;
+        }
+        #fb>a:hover{
+            color: #9b7373;
+        }
+        .git>i{
+            margin-left: 43px;
+        }
+        #gt{
+            width: 148px;
+            height: 38px;
+            margin-left: 109px;
+            margin-top: -40px;
+            font-family: "Audrey";
+            font-size: 34px;
+        }
+        #gt>a:hover{
+            color: #9b7373;
+        }*/
+        body{
+            font-size: 13px;
+        }
+        .nav{
+            display: flex;
+            float: right;
+            flex-direction: column;
+            margin-top: -280px;
+            line-height: 30px;
+        }
+        #adrs{
+            visibility:hidden;
+        }
+        
+        .ellipse{
+            width: 524px;
+            height: 441px;
+            margin-left: 400px;
+            margin-top: -390px;
+            border-radius: 50%;
+            background-image: url("image/zedy.jpg");
+            background-repeat: repeat-x;
+            background-position: -25% 30%;
+        }
+        
+        .nav>a:hover{
+            color: #00F9BD;
+        }
+       
+        }
+
+
+
+
